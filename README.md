@@ -32,6 +32,7 @@ As the new user:
  * Check out this git repository to ~/src/memory
  * Run the deploy script.
    * You may need to answer "Y" and press return.
+ * Run the start script to start your server.
 
 ## Learn more
 
